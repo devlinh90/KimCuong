@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5948d6f8b4b54b5489b1fd145e73d55b
+timeCreated: 1487669950
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HELLO DENVER DISPLAY REGULAR
+  fontNames:
+  - HELLO DENVER DISPLAY REGULAR
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
